@@ -1,0 +1,95 @@
+.main {
+      height: 700px;
+      width: 60%;
+      background-color: aliceblue;
+      float: left;
+      margin-left: 20%;
+      padding: 0px;
+}
+
+.m1 {
+      height: 200px;
+      width: 30%;
+      float: left;
+      border: 5px dotted blue;
+      /* margin: 3%; */
+      margin-left: 1.5%;
+      margin-top: 2%;
+
+}
+
+.m2 {
+      height: 200px;
+      width: 30%;
+      float: left;
+      border: 5px dashed blue;
+      /* margin: 3%; */
+      margin-left: 2%;
+      margin-top: 2%;
+}
+
+.m3 {
+      height: 200px;
+      width: 30%;
+      float: left;
+      border: 5px solid blue;
+      /* margin: 3%; */
+      margin-left: 2%;
+      margin-top: 2%;
+}
+
+.m4 {
+      height: 200px;
+      width: 30%;
+      float: left;
+      border: 5px double blue;
+      /* margin: 3%; */
+      margin-left: 1.5%;
+      margin-top: 2%;
+      
+}
+
+.m5 {
+      height: 200px;
+      width: 30%;
+      float: left;
+      border: 5px groove blue;
+      /* margin: 3%; */
+      margin-left: 2%;
+      margin-top: 2%;
+
+
+}
+
+.m6 {
+      height: 200px;
+      width: 30%;
+      float: left;
+      border: 5px ridge blue;
+      /* margin: 3%; */
+      margin-left: 2%;
+      margin-top: 2%;
+
+
+}
+
+.m7 {
+      height: 200px;
+      width: 30%;
+      float: left;
+      border: 5px inset blue;
+      /* margin: 3%; */
+      margin-left: 2%;
+      margin-top: 2%;
+}
+
+
+.m8 {
+      height: 200px;
+      width: 30%;
+      float: left;
+      border: 5px ridge blue;
+      /* margin: 3%; */
+      margin-left: 2%;
+      margin-top: 2%;
+}
